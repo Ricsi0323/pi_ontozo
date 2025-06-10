@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // WiFi beállítások
-const char* ssid = "Kifli";
-const char* password = "kurva111";
+const char* ssid = "***************";
+const char* password = "**************";
 
 #define rele 14
 #define status_led 19
