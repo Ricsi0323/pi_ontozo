@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <WiFi.h>
 
 // Állítsd be a Wi-Fi adatokat
